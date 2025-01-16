@@ -10,8 +10,6 @@ const page = () => {
           
           <AllProduct />
           <NewsletterInstagram />
-          
-      
     </div>
   )
 }
